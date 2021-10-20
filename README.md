@@ -12,7 +12,7 @@ I am an undergraduate student at VIT Chennai Campus currently pursuing Computer 
 - 💬 Talk to me about Memes, TBBT, Physics, anything that interests you.
 - ⚡ Fun fact: I strongly belive in "When you have eliminated the impossible, whatever remains, however improbable, must be the truth" -Sherlock Holmes in The Sign of the Four.
 
-# Skills
+
 
 
 
