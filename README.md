@@ -5,7 +5,7 @@
 sairam-kakarla/sairam-kakarla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am an undergraduate student at VIT Chennai Campus currently pursuing Computer Science Engineering. I like playing around with new techno
+I am an undergraduate student at VIT Chennai Campus currently pursuing Computer Science Engineering. 
 
 - 🔭 Currently Learning: Data Science and Machine Learning.
 - 💡 Interests: Machine Learning Applications, Web Development,Cloud, Steganography .
